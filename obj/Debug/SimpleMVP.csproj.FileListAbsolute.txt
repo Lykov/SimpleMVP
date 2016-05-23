@@ -1,0 +1,9 @@
+E:\Projects\Term 6\Information Systems\SimpleMVP\bin\Debug\SimpleMVP.exe.config
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.csprojResolveAssemblyReference.cache
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.FormView.resources
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.Properties.Resources.resources
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.csproj.GenerateResource.Cache
+E:\Projects\Term 6\Information Systems\SimpleMVP\bin\Debug\SimpleMVP.exe
+E:\Projects\Term 6\Information Systems\SimpleMVP\bin\Debug\SimpleMVP.pdb
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.exe
+E:\Projects\Term 6\Information Systems\SimpleMVP\obj\Debug\SimpleMVP.pdb
